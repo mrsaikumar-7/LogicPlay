@@ -1,0 +1,5 @@
+{
+  "name": "IntuitionGym",
+  "description": "A cognitive skill-building platform that trains algorithmic intuition through micro-puzzles, functioning as a mental companion to LeetCode.",
+  "requestFramePermissions": []
+}
